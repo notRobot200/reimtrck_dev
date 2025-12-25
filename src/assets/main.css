@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "StussyScript";
+  src: url("@/assets/fonts/LinLibertine_R.ttf") format("truetype");
+  font-display: swap;
+}
+
+.font-stussy {
+  font-family: "StussyScript", cursive;
+  letter-spacing: 1px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
