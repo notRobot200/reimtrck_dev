@@ -31,7 +31,7 @@
           <span class="text-2xl">🎄</span>
         </div>
         <p class="text-sm font-semibold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-          & Happy New Year 2025! 🎆
+          & Happy New Year 2026! 
         </p>
       </div>
 

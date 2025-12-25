@@ -5,7 +5,7 @@ import axios from "axios";
 
 // Base API Config
 const api = axios.create({
-  baseURL: "https://reim-track-826572489341.us-central1.run.app",
+  baseURL: "https://reim-track-dev-826572489341.us-central1.run.app",
   headers: {
     "Content-Type": "application/json",
   },
